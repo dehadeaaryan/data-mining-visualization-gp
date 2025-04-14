@@ -52,6 +52,9 @@ For model ideas and dataset sources, please refer to:
 - [x] Select a dataset
 - [x] Define the problem statement
 - [ ] Choose three machine learning models (one per member)
+  - [x] Aaryan Dehade: Random Forest Regression
+  - [ ] Drake Do: [Model Name]
+  - [ ] Aqil Dhanani: [Model Name]
 - [ ] Develop partial code for each model
 - [ ] Schedule office hours check-up
 - [ ] Prepare presentation slides (PowerPoint/Keynote)
@@ -64,11 +67,9 @@ For model ideas and dataset sources, please refer to:
 ├── README.md         # Project overview and instructions
 ├── data/             # Dataset files
 ├── models/           # Code for machine learning models
-├── presentations/    # Presentation slides and materials
-└── scripts/          # Scripts for data analysis and visualization
+└── presentations/    # Presentation slides and materials
 ```
 
 ## Communication & Meetings
 
 For scheduling meetings, please use our When2Meet link: [When2Meet](https://www.when2meet.com/?29732398-PHI5X)
-
