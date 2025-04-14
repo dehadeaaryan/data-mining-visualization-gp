@@ -9,6 +9,9 @@ Data Mining and Visualization Group Project
 ## Project Overview
 This project involves selecting a real-life dataset and analyzing it using three different machine learning models. Our aim is to compare model performances through quantitative metrics, visualizations, and detailed code walkthroughs.
 
+## Problem Statement
+Predict the finishing position of a driver in a race using historical performance and race data. The model will use features like starting position, qualifying performance, driver age, number of laps, race year, and round number as inputs. Random Forest Regression is chosen because it can effectively capture nonlinear relationships and interactions among variables, thereby providing robust predictions and insight into which factors most influence the finishing position.
+
 ## Project Components
 
 ### Part I: Check-Up
@@ -36,8 +39,9 @@ For model ideas and dataset sources, please refer to:
 - [UCI Machine Learning Repository Datasets](https://archive.ics.uci.edu/datasets/)
 
 ## Checklist
-- [ ] Select a dataset
-- [ ] Define the problem statement
+
+- [x] Select a dataset
+- [x] Define the problem statement
 - [ ] Choose three machine learning models (one per member)
 - [ ] Develop partial code for each model
 - [ ] Schedule office hours check-up
