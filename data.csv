@@ -1,4 +1,4 @@
-team_name,driver_code,driver_nat,circuit,year,round,starting_pos,finishing_pos,laps,quali_mean,driver_age,driver_dnf,car_dnf
+team_name,driver_code,driver_nationality,circuit,year,round,starting_position,finishing_position,laps,qualifying_mean,driver_age,driver_dnf,car_dnf
 McLaren,ALO,Spanish,albert_park,2016.0,1.0,11.0,21.0,16.0,86.331,35.0,1,0
 McLaren,ALO,Spanish,albert_park,2017.0,1.0,12.0,14.0,50.0,85.6485,36.0,0,1
 McLaren,ALO,Spanish,albert_park,2018.0,1.0,10.0,5.0,58.0,83.6445,37.0,0,0
