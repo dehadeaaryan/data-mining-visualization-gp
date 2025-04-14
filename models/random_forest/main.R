@@ -16,7 +16,7 @@ library(ggplot2)
 
 # Import the dataset
 # Replace 'racing_data.csv' with the actual path to your dataset file.
-dataset <- read.csv("data.csv")
+dataset <- read.csv("data/data.csv")
 
 # Optional: Examine the structure of the dataset
 str(dataset)
