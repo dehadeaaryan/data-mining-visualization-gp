@@ -12,18 +12,18 @@ Data Mining and Visualization Group Project
 
 This project involves selecting a real-life dataset and analyzing it using three different machine learning models. Our aim is to compare model performances through quantitative metrics, visualizations, and detailed code walkthroughs.
 
-## Problem Statement
-
-Predict the finishing position of a driver in a race using historical performance and race data. The model will use features like starting position, qualifying performance, driver age, number of laps, race year, and round number as inputs. Random Forest Regression is chosen because it can effectively capture nonlinear relationships and interactions among variables, thereby providing robust predictions and insight into which factors most influence the finishing position.
-
 ## Project Components
 
 ### Part I: Check-Up
 
-- **Dataset:** To be selected.
-- **Problem Definition:** To be defined.
-- **Plan:** Identify and implement three specific machine learning models (one per member) with partial code for each.
-- **Office Hours:** All members must attend for code check-up and demonstration.
+- **Dataset:** `data.csv` (columns include: team_name, driver_code, driver_nationality, circuit_name, year, round, starting_position, finishing_position, laps, qualifying_mean, driver_age, driver_dnf, car_dnf)
+- **Problem Definition:** Predict the finishing position of a driver in a race using historical racing data.
+- **Plan:**
+  - Each team member will implement one of three machine learning models with partial code:
+    - A baseline model (e.g., Multiple Linear Regression)
+    - A non-linear model (e.g., Polynomial Regression or Support Vector Regression)
+    - An ensemble model (e.g., Random Forest Regression) that also provides feature importance insights.
+- **Office Hours:** All members must attend the code check-up and demonstration session.
 
 ### Part II: Presentation
 
