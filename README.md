@@ -56,6 +56,9 @@ For model ideas and dataset sources, please refer to:
   - [ ] Drake Do: [Model Name]
   - [ ] Aqil Dhanani: [Model Name]
 - [ ] Develop partial code for each model
+  - [x] Aaryan Dehade: Random Forest Regression
+  - [ ] Drake Do: [Model Name]
+  - [ ] Aqil Dhanani: [Model Name]
 - [ ] Schedule office hours check-up
 - [ ] Prepare presentation slides (PowerPoint/Keynote)
 - [ ] Ensure even distribution of presentation time
